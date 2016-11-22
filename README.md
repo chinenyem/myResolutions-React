@@ -1,0 +1,1 @@
+# myResolutions-React
